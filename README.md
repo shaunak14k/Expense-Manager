@@ -2,6 +2,8 @@
 
 Made using JAVA and MYSQL
 Import ZIP file to NetBeans to run the project.
+
+java files in src folder only work in netbeans do not try to run them on their own
 _
 ![Screenshot 06-08-2021 10_04_45](https://user-images.githubusercontent.com/30958999/130458177-2e43908b-7d0d-411f-ad47-e93d4bbe0f40.png)
 ![Screenshot 06-08-2021 10_04_52](https://user-images.githubusercontent.com/30958999/130458189-c3179ca6-5982-48b0-8d32-9a88c22d8464.png)
